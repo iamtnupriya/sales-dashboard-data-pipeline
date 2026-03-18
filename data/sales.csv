@@ -1,0 +1,9 @@
+order_id,product,category,amount,date,region
+1,Laptop,Electronics,50000,2024-01-01,North
+2,Phone,Electronics,20000,2024-01-02,South
+3,Tablet,Electronics,15000,2024-01-03,West
+4,Chair,Furniture,5000,2024-01-04,East
+5,Desk,Furniture,7000,2024-01-05,North
+6,Headphones,Accessories,2000,2024-01-06,South
+7,Monitor,Electronics,12000,2024-01-07,West
+8,Mouse,Accessories,800,2024-01-08,East
